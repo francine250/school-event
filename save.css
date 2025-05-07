@@ -1,0 +1,18 @@
+body{
+	background-color: skyblue;
+}
+
+.debate{
+	text-decoration: none;
+	display: flex;
+	justify-content: space-around;
+	top: 12px;
+
+}
+.image{
+	text-decoration: none;
+	display: flex;
+	justify-content: space-around;
+	top: 12px;
+	padding: 20px;
+}
